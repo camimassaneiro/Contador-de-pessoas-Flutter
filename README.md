@@ -1,4 +1,4 @@
-# contador_de_pessoa
+# Contador de pessoa :busts_in_silhouette:
 
 A new Flutter project.
 
@@ -6,10 +6,22 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### O software apresentado é um contador de pessoas para verificação da lotação de um restaurante utilizando Flutter e Dart. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Nesse projeto foram aplicado os conhecimentos ensinados no curso de Flutter pelo instrutor Daniel Ciolfi.
+
+Com esse código você saberá como utilizar os widgets de:
+
+- colunas
+- linhas
+- textos
+- imagem
+- linha
+- hierarquia
+- padding
+- stack
+
+E alteração de estados stateless e Stateful.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
